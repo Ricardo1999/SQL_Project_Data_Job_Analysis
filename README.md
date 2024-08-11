@@ -9,7 +9,7 @@ Esse projeto é fruto do curso [SQL for Data Analytics - Learn SQL in 4 Hours](h
 
 Ao longo do curso serão usadas as seguintes tabelas:
 
-![Tabelas usadas no projeto](Images\data_table_relationship.png)
+![Tabelas usadas no projeto](Images/data_table_relationship.png)
 
 # Questões propostas pelo Projeto
 
