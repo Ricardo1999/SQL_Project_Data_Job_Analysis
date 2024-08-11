@@ -16,20 +16,20 @@ Ao longo do curso serão usadas as seguintes tabelas:
 
 Questions to Answer:
 1. What are the top-paying jobs for my role?
-    - Solution: [1_top_paying_jobs](project_sql\1_top_paying_jobs.sql)
+    - Solution: [1_top_paying_jobs](project_sql/1_top_paying_jobs.sql)
 
 2. What are the skills required for these  top-paying roles?
-    - Solution: [2_skills_required_for_top_paying_jobs](project_sql\2_skills_required_for_top_paying_jobs.sql)
+    - Solution: [2_skills_required_for_top_paying_jobs](project_sql/2_skills_required_for_top_paying_jobs.sql)
 
 3. What are the most in-demand skills for my role?
-    - Solution: [3_most_indemand_skills](project_sql\3_most_indemand_skills.sql)
+    - Solution: [3_most_indemand_skills](project_sql/3_most_indemand_skills.sql)
 
 4. What are the top skills based on salary for my role?
-    - Solution: [4_top_skills_based_on_salary](project_sql\4_top_skills_based_on_salary.sql)
+    - Solution: [4_top_skills_based_on_salary](project_sql/4_top_skills_based_on_salary.sql)
     
 5. What are the most optimal skills to learn?
     - a. Optimal: High Demanda AND High Paying
-    - Solution: [5_optimal_skills](project_sql\5_optimal_skills.sql)
+    - Solution: [5_optimal_skills](project_sql/5_optimal_skills.sql)
 
 <br><br>
 # #1 Top paying jobs
