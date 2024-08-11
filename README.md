@@ -5,7 +5,7 @@ Este projeto trata da análise exploratória de dados de Oferta de Emprego na á
 
 # Sobre os dados
 
-Esse projeto é fruto do curso [SQL for Data Analytics - Learn SQL in 4 Hours](https://youtu.be/7mz73uXD9DA?si=y4OTcwhL0JOqzuCI) do [Luke Barousse](linkedin.com/in/luke-b), usei alguns dados fornecidos por ele em seu curso  para realizar essa análise, bem como o projeto que também é feito em seu curso.
+Esse projeto é fruto do curso [SQL for Data Analytics - Learn SQL in 4 Hours](https://youtu.be/7mz73uXD9DA?si=y4OTcwhL0JOqzuCI) do [Luke Barousse](https://www.linkedin.com/in/luke-b), usei alguns dados fornecidos por ele em seu curso  para realizar essa análise, bem como o projeto que também é feito em seu curso.
 
 Ao longo do curso serão usadas as seguintes tabelas:
 
